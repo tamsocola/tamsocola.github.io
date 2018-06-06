@@ -98,6 +98,16 @@
 	padding-top: 20px;
 }
 
+.home-btn
+{
+	margin-bottom: 20px;
+}
+
+.home-btn a
+{
+	padding-bottom: 5px;
+}
+
 .common-btn
 {
 	font-size: 20px;
@@ -145,7 +155,7 @@
 	padding: 15px 5px 15px 5px;
 }
 
-.detail ul li
+/*.detail ul li
 {
 	font-size: 18px;
 	padding-left: 20px;
@@ -157,7 +167,7 @@
 {
 	color: #FC427B;
 }
-
+*/
 .abc
 {
 	background-color: #ff7675 !important;
